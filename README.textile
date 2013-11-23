@@ -40,9 +40,9 @@ h2. Development
 * Authentication: Devise
 * Authorization: CanCan
 
-h2. Email
+h2. Test app
 
-The application is configured to send email using a SMTP account.
+The application live at http://geo.projectlounge.com/ hosted on Heroku
 
 h4. Authors
 
