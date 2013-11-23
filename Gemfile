@@ -15,6 +15,15 @@ gem 'rolify'
 gem 'simple_form'
 gem 'slim'
 gem 'unicorn'
+
+gem 'rmagick'
+gem "zip-zip", "~> 0.1" and gem "rubyzip", "~> 1.0.0"
+
+gem 'grape'
+gem 'grape-entity'
+gem 'grape-swagger'
+gem 'grape-swagger-ui'
+
 group :development do
   gem 'better_errors'
   gem 'binding_of_caller', :platforms=>[:mri_19, :mri_20, :rbx]
